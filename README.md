@@ -14,7 +14,7 @@ _Failures are great because they allow me to learn - ask me about my academic jo
 #### _My Experience & Outlook_ ####
 
 I run day-to-day operations at [Clarify Student Resources](clarifysr.com), a social enterprise where we provide free and premium services to post-secondary students.
-I also handle financse at [UBC Sailbot](https://www.ubcsailbot.org/), where I maintain sponsor relations, accounting and funding as the Finance Lead.
+I also handle finances at [UBC Sailbot](https://www.ubcsailbot.org/), where I maintain sponsor relations, accounting and funding as the Finance Lead.
 Using these experiences as leverage, I hope to expand my understanding of finance, entrepreneurship and data analytics, eventually hoping to land a quant-based role in
 investment banking.
 
